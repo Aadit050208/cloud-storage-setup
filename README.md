@@ -1,2 +1,56 @@
-# cloud-storage-setup
-“Internship Task 1
+# Internship Task 1: Cloud Storage Setup (AWS S3)
+
+## ✅ Objective
+To create and configure a cloud storage bucket on AWS S3 with file uploads and access permissions.
+
+---
+
+## ☁ Platform Used
+- *Google cloud services *
+
+---
+
+## 📁 Files Uploaded to S3 Bucket
+| File Name       | Type       | Access Type |
+|----------------|------------|-------------|
+| cloud_computing.txt     | Text File  | Public      |
+| first_project-cloud computing.pdf    | PDF File   | Private     |
+
+---
+
+## 🔐 Access Configuration
+- hello.txt is set to *Public* — accessible via URL
+- first_project-cloud computing.pdf  is kept *Private* — only accessible with proper permissions
+
+---
+
+## 🌐 Public File Link
+[View cloud_computing.txt](https://storage.googleapis.com/gcs-intern-bucket-2025/cloud_computing.txt)
+
+
+
+---
+
+## 📸 Screenshots
+Screenshots are included in the /screenshots folder:
+- Bucket creation
+- File upload process
+- Permissions configuration
+- Public file access test
+
+---
+
+## 📌 Bucket Name
+gcs-intern-bucket-2025  
+
+
+---
+
+## 🧾 Notes
+- Used AWS Free Tier
+- Files organized and access tested
+- GitHub repo stores metadata, not actual cloud data
+
+---
+
+## 📎 Repository Structure
